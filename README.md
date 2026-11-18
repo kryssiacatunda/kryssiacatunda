@@ -51,7 +51,7 @@ I believe technology goes beyond building software. It is also about creating me
 #### Technology & Innovation
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="Artificial Intelligence" />
+
   <img src="https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=databricks&logoColor=white" height="28" alt="Data Science" />
   <img src="https://img.shields.io/badge/Internet_of_Things-0082FC?style=for-the-badge&logo=internetofthings&logoColor=white" height="28" alt="Internet of Things" />
 </div>
