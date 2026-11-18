@@ -56,10 +56,10 @@ I believe technology goes beyond building software. It is also about creating me
   <img src="https://img.shields.io/badge/Internet_of_Things-0082FC?style=for-the-badge&logo=internetofthings&logoColor=white" height="28" alt="Internet of Things" />
 </div>
 
-#### UX & Project Management
+#### Project Management
 
 <div align="left">
-  <img src="https://img.shields.io/badge/UX_Design-FF7262?style=for-the-badge&logo=figma&logoColor=white" height="28" alt="UX Design" />
+  
   <img src="https://img.shields.io/badge/Customer_Experience-00897B?style=for-the-badge&logoColor=white" height="28" alt="Customer Experience" />
   <img src="https://img.shields.io/badge/Agile_Methodologies-0052CC?style=for-the-badge&logoColor=white" height="28" alt="Agile Methodologies" />
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logoColor=white" height="28" alt="Scrum" />
